@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tbb:Additionallanterns_yellow_stone_lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb:Additionallanterns_stone_bricks_hanging_lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb:Additionallanterns_amethyst_lantern_off"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb:Chipped_large_diamond_magenta_stained_glass_pane_noside_alt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb:Ars_nouveau_smooth_sourcestone_basketweave_slab_top"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb:Ars_nouveau_purple_archwood_log_1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb:Ars_nouveau_potion_still"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

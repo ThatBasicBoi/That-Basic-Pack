@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tbb_chipped:ornate_orange_stained_glass_pane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tbb_chipped:ornate_white_stained_glass_pane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"framedblocks:framed_vertical_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"framedblocks:framed_block"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
